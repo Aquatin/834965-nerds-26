@@ -1,7 +1,7 @@
 # Личный проект «Нёрдс»
 
 * Студент: [Albina Chernyateva](https://up.htmlacademy.ru/htmlcss/26/user/834965).
-* Наставник: `Неизвестно`.
+* Наставник: `Nobody`.
 
 ---
 
